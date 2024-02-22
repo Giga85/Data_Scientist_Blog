@@ -33,7 +33,7 @@ In this project, I will explore the Seattle Airbnb Data to answer some business 
 In this project, I have the following files:
 
 Code: 
-Writting_Blog.ipynb: This file contains all code of the project impleamented in Jupyter nootbook.
+Writting_Blog.ipynb: This file contains all code of the project impleamented in Jupyter notebook.
 
 Writting_Blog.html: This is html version of Writting_Blog.ipynb
 
