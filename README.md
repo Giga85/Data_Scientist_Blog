@@ -8,7 +8,7 @@ https://medium.com/@giga16785/project-write-a-data-science-blog-post-e05a4e69e87
 ### Project Motivation
 This is the first project of Udacity Data Scientists Nanodegree Program.
 
-It is a chance for me to practise what I am learning the Data Scientists course.
+It is a chance for me to practice what I am learning the Data Scientists course.
 
 In this project, I will explore the Seattle Airbnb Data to answer some business questions:
 
