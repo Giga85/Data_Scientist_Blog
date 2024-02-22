@@ -1,6 +1,10 @@
 # Data_Scientist_Blog Project
 # Writing a Data Scientist Blog Post
 
+# Medium Blog Post:
+You can file my blog post: 
+https://medium.com/@giga16785/project-write-a-data-science-blog-post-e05a4e69e87d
+
 ### Project Motivation
 This is the first project of Udacity Data Scientists Nanodegree Program.
 
