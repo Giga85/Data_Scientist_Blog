@@ -28,6 +28,7 @@ In this project, I have the following files:
 
 Code: 
 Writting_Blog.ipynb: This file contains all code of the project impleamented in Jupyter nootbook.
+
 Writting_Blog.html: This is html version of Writting_Blog.ipynb
 
 Data: 
@@ -53,7 +54,9 @@ import matplotlib.pyplot as plt
 
 # How to Interact with your project
 To access my project, you can go to my github repository with following link:
+
 https://github.com/Giga85/Data_Scientist_Blog
 
 # Licensing, Authors, Acknowledgements, etc.
+
 The used data is published along with the licensing terms on Kaggle
