@@ -3,7 +3,6 @@
 
 # Medium Blog Post:
 You can file my blog post: 
-https://medium.com/@giga16785/project-write-a-data-science-blog-post-e05a4e69e87d
 
 https://medium.com/@giga16785/project-writing-a-data-scientist-blog-post-seattle-airbnb-data-d123fa0d7c77
 
